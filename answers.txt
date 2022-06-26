@@ -1,0 +1,13 @@
+1 medley|
+2 сostume| 
+3 umbrella|
+4 pants|
+5 escalator|
+6 brick|
+7 eggshells|
+8 current|
+9 word|
+10 nothing|
+11 standard|
+12 Prague|
+13 beard|
